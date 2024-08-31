@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Praveen kumar R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+### 🚀 Skills
+
+- **Frontend:** React, HTML, CSS
+- **Backend:** Node.js
+- **Databases:** MongoDB, MySQL
+- **Tools:**  Git
+
 - 📫 How to reach me **praveen132004jaya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

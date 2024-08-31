@@ -11,7 +11,7 @@
 ### 📬 Contact
 - 📫 How to reach me **praveen132004jaya@gmail.com**
 
-- https://leetcard.jacoblin.cool/praveen0134?theme=dark&font=Slabo%2027px&ext=contest
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/praveen0134?theme=dark&font=Slabo%2027px&ext=contest)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

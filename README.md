@@ -8,6 +8,7 @@
 - **Databases:** MongoDB, MySQL
 - **Tools:**  Git
 
+### 📬 Contact
 - 📫 How to reach me **praveen132004jaya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
